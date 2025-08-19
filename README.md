@@ -36,7 +36,7 @@ An engaging and modern Quiz Game built using HTML, CSS, and JavaScript with a be
 
 🌐 Live Demo
 
-Github: 
+Github: https://github.com/kumaradi9508/SCT_WD_03-Alternative-Interactive-Quiz-Game/tree/main
 
 Codepen: https://codepen.io/Adi-Satya/pen/yyYvPPg
 
