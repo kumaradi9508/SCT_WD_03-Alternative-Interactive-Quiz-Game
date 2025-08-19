@@ -34,6 +34,12 @@ An engaging and modern Quiz Game built using HTML, CSS, and JavaScript with a be
 
   .JavaScript (Vanilla) → Game Logic, DOM Manipulation, Leaderboard, Badges
 
+🌐 Live Demo
+
+Github: 
+
+Codepen: https://codepen.io/Adi-Satya/pen/yyYvPPg
+
 
 📂 Project Structure
 
